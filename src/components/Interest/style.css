@@ -1,0 +1,36 @@
+.interest {
+  flex-grow: 1;
+}
+
+.interest h1 {
+  margin-bottom: 20px;
+  text-align: center;
+}
+.content div {
+  margin-top: 20px;
+}
+
+.content p {
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 1.5em;
+  font-size: 20px;
+ 
+}
+
+.Marquestyle {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.title {
+  margin-bottom: 10px;
+}
+
+.image_wrapper {
+  margin: 0px 10px;
+  
+}
+
+.image_wrapper img {
+  width: 60px;
+}

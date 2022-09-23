@@ -1,0 +1,16 @@
+
+.footer {
+  gap: 25px;
+  width: 100px;
+}
+
+.singleCol {
+  max-width: 70px;
+}
+
+.social-media-icon a {
+  
+  color: #DCA704 ;
+  margin-bottom: 50px;
+  font-size: 2.3rem;
+}

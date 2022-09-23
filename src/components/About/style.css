@@ -1,0 +1,41 @@
+.about {
+  flex-grow: 1;
+  min-width: 100px;
+  display: flex;
+  justify-content: space-around;
+}
+
+
+.photoprofile {
+
+  width: 60%;
+  margin-top: -50px;
+  margin-right: 50px;
+  padding-bottom: 40px;
+}
+
+.text1{
+margin-top: 80px;
+padding-left: 20px;
+
+}
+
+
+
+
+/* @media (min-width: 100%){ */
+
+/* .photoprofile,
+.title {
+  width: 40%;
+  margin-right: 50px;
+  padding-top: 90px;
+  
+}
+
+.title {
+  width: 100%;
+  
+  text-align: left;
+} */
+/* } */

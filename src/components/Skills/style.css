@@ -1,0 +1,36 @@
+.skills {
+  flex-grow: 1;
+}
+
+.skills h1 {
+  margin-bottom: 20px;
+  text-align: center;
+}
+.content div {
+  margin-bottom: 25px;
+  
+}
+
+.content p {
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 1.5em;
+  font-size: 20px;
+  text-align: center;
+}
+
+.Marquestyle {
+  margin-top: 20px;
+}
+
+.title {
+  margin-bottom: 10px;
+}
+
+.image_wrapper {
+  margin: 10px 10px;
+}
+
+.image_wrapper img {
+  width: 60px;
+  margin-bottom: 40px;
+}
